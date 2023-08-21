@@ -1,0 +1,1 @@
+{"errorMessage": "'firstName'", "errorType": "KeyError", "requestId": "cec2de98-0eed-455d-aadf-a4c695c6b9ed", "stackTrace": ["  File \"/var/task/hello-world.py\", line 5, in lambda_handler\n    name = event[\"firstName\"] +' '+ event[\"lastName\"]\n"]}
